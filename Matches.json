@@ -1,0 +1,8 @@
+[
+  {
+    "Descricao": "Eliminatórias para copa do mundo 2022",
+    "local": { "Nome": "Maracanã", "Imagem": "00000"},
+    "Mandante": {"Nome": "Brasil","Forca": 5,"Imagem": "00000"},
+    "Visitante": {"Nome": "Argentina","Forca": 5,"Imagem": "00000"},
+  }
+]
